@@ -1,0 +1,1 @@
+AjaxLife has [moved to GitHub](http://github.com/Katharine/AjaxLife).
